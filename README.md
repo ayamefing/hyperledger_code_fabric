@@ -1,5 +1,11 @@
 # Hyperledger 源码分析之 Fabric
 
+> 原文：[Hyperledger 源码分析之 Fabric](https://github.com/yeasy/hyperledger_code_fabric)
+
+> 作者：[yeasy](https://github.com/yeasy)
+
+> 版本：0.6.2
+
 0.6.2 [![Build Status](https://travis-ci.org/yeasy/hyperledger_code_fabric.svg?branch=master)](https://travis-ci.org/yeasy/hyperledger_code_fabric) 
 
 区块链技术是计算机技术与金融技术交融的成功创新，被认为是极具潜力的分布式账本平台的核心技术。如果你还不了解区块链，可以阅读 [区块链技术指南](https://www.gitbook.com/book/yeasy/blockchain_guide)。
